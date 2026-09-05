@@ -374,10 +374,8 @@ nav a:hover {
 
 .products-grid {
     display: grid;
-
-    grid-template-columns: repeat(3, 1fr);
-
-    gap: 25px;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
 }
 
 

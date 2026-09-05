@@ -377,25 +377,6 @@ nav a:hover {
     grid-template-columns: repeat(2, 1fr);
     gap: 30px;
 }
-
-
-.product-card {
-    border: 1px solid var(--border);
-
-    border-radius: 22px;
-
-    overflow: hidden;
-
-    background: white;
-
-    transition:
-        transform 0.4s ease,
-        box-shadow 0.4s ease;
-
-    animation: cardRise 0.8s ease both;
-}
-
-
 .product-card {
     border: 1px solid var(--border);
     border-radius: 22px;
